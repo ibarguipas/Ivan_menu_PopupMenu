@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ivan menu PopupMenu</string>
+    <string name="add_favorites">Añadir a favoritos</string>
+    <string name="share">Compartir</string>
+    <string name="delete">Eliminar</string>
+    <string name="more_actions_desc">Mas acciones desc</string>
+</resources>
